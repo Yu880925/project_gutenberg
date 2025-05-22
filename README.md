@@ -8,7 +8,8 @@
 
 ## 成果
 爬取Gutenberg中的中文書籍，擷取出書籍裡的中文字，並存成txt檔。<br>
-![](/images/結果部分圖.PNG)![](/images/result1.PNG)
+![](/images/結果部分圖.PNG)
+![](/images/result1.PNG)
 ### Video Link
 https://drive.google.com/file/d/1r2wSa8ThggaMqFhrqlNccB6q3ls54FVO/view?usp=drive_link
 
